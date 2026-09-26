@@ -20,8 +20,9 @@ ttk.Checkbutton self.root, text="Живые обои (листья)", variable=s
 
 tk.BooleanVar value
 
-
-
+ffw fwgw wgw g3u yue yjufyn ruy eyhdje jew ujejh ene eh whue 
+[12.12,12] tiin irnr rrnjr b fjddgv vdgvh s dhdbg v t h h andmie                     pein pein  pein pein ouip 
+ASGd AD dfhygf RvRFBt gfg pe pytin      {13,.123.21,.23,.}
 
 
 
